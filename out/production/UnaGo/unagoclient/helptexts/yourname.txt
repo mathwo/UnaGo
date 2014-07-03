@@ -1,4 +1,0 @@
-This sets your name for partner connections.
-
-The normal format is "name (strength)". The name may contain blanks.
-

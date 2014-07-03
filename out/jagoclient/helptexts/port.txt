@@ -1,4 +1,0 @@
-This sets the port of your server for partner connections. The normal
-setting should be 6970.
-
-

@@ -1,8 +1,0 @@
-O pomocy
-
-System Pomocy sk�ada si� z grupy plik�w o rozsze�eniu txt. Mo�na je
-dowolnie edytowa�.
-
-Pliki pomocy w jezyku angielskim s� spakowane w parchiwum UnaGo.jar.
-jako pliki domy�lne. Aby to zmieni� rozpakuj archiwum, podmie� pliki i
-spakuj je ponownie wraz z plikami klas i zasob�w.

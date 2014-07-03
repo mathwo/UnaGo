@@ -1,7 +1,0 @@
-Wyb�r j�zyka
-
-W tym oknie dokonujesz wyboru j�zyka - mo�e on r�ni� si� od
-standardowego j�zyka u�ywanego na twoim komputerze. Aby u�ywa�
-wybranego j�zyka potrzebujesz plik�w koniecznych do jego obs�ugi - w
-przeciwnym wypadku program samoczynnie powr�ci do j�zyka angielskiego.
-Potrzebne pliki odnale�� mo�na na stronie UnaGo.

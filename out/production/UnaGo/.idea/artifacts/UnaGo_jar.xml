@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="UnaGo:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/UnaGo_jar</output-path>
-    <root id="archive" name="UnaGo.jar">
-      <element id="module-output" name="UnaGo" />
-    </root>
-  </artifact>
-</component>

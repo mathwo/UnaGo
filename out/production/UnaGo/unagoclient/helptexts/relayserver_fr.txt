@@ -1,7 +1,0 @@
-Cela vous laisse d�finir un serveur relais. Vous ne devez utiliser ceci
-que si vous utilisez UnaGo � partir d'un butineur. Dans ce cas, votre
-serveur (celui qui fait tourner l'applet UnaGo), lance un relais d�mon.
-Normallement, cela est configur� par votre administrateur.
-
-Toutefois, le syst�me du relais peut �tre remplacer en rel�chant
-la s�curit� des applets Java. C'est possible avec Internet Explorer.

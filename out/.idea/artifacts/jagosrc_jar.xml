@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="jagosrc:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/jagosrc_jar</output-path>
-    <root id="archive" name="jagosrc.jar">
-      <element id="module-output" name="jagosrc" />
-    </root>
-  </artifact>
-</component>

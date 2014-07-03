@@ -1,2 +1,0 @@
-Ustawia bramk? serwera do po??cze? towarzyskich. Standardowe
-ustawienie to 6970.
