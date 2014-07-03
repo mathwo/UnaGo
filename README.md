@@ -7,3 +7,13 @@ UnaGo
 
 * 14-07-03: Fixed the bug for suicide. Use Eclipse to add curly braces to if 
 blocks.
+
+### TODO:
+
+* Remove rene sorter classes
+
+* Combine rene and unagoclient folders
+
+* make dataLayer, domainLayer and presentationLayer for the classes
+
+* Further optimizations, refactoring
