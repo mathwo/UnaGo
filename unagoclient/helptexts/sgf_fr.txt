@@ -1,0 +1,35 @@
+A propos de SGF
+
+Ce programme utilise XML ou SGF pour sauvergarder des parties. Comme
+il y a d'autres visualiseurs de ce format, vous pourrez utilisez vos fichiers
+avec ceux-ci. Parmi ceux-ci citons, Smart Go, Many Faces of Go(Windows)
+et cgoban (Unix). Il y a d'autres formats alternatifs, comme le format
+de GoScribe (fichier de nom *.go au lieu de *.sgf)
+
+XML est un standard de l'industrie informatique permettant de stocker
+des informations et son usage doit �tre priviligi� dans le futur. Malgr�
+tout, UnaGo est le seul visualiseur � accepter le XML et d�finit donc de fait
+son propre standard. Vous pouvez obtenir plus d'informations sur ce
+format sur la page web de UnaGo.
+
+Certains visualiseurs n'acceptent pas tous les "tags". Notamment les labels
+et les marques. Si vous utilisez les labels avec UnaGo, ils seront sauvegard�s
+avec le "tag" L, qui ne fait pas partie du format SGF officiel. Pourtant, tous
+les programmes que je connais le comprennent,  alors qu'il ne reconnaissent
+pas le remplacement LB. C'est la m�me chose avec la commande de
+marque.
+
+Pour �tre certain de sauver en SGF pur, v�rifier l'entr�e du menu
+correspondante. Mais cela rendra invisible vos marques et labels
+pour le programme MGT. Donc pour ce programme laisser l'entr�e
+d�coch�e.
+
+Le format de sauvegarde de commentaires et longs textes est un
+autre souci. Avec SGF, chaque ligne forme un paragraphe. Les lignes
+peuvent �tre s�par�es par un retour � la ligne(soft). UnaGo s�pare les
+paragraphes avec des lignes blanches comme le font d'autres visualiseurs.
+WinMGT32 ignore les retours � la ligne (soft) et affiche les commentaires
+sur une ligne avec d�filement. Vous devriez utiliser le style SGF.
+
+Pour �tre certain que votre fichier s'affichera correctement dans MGT,
+d�cocher l'entr�e pur SGF dans le menu et n'utiliser pas les marques sp�ciales.

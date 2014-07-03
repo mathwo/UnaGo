@@ -1,0 +1,14 @@
+Gegen ein Program spielen
+
+Falls Sie ein Go-spielendes Programm haben, das das Go Modem Protokoll
+unterst�tzt, so k�nnen Sie versuchen, UnaGo als Spielbrett einzusetzen.
+
+Dieses Programm bekommen Sie �ber
+
+http://www.gnu.org/software/gnugo/
+
+oder von unserem Server. N�heres finden Sie in der Dokumentation.
+
+Im Einstellungsdialog zum Spielen m�ssen Sie den Pfad zum Programm mit
+eventuell ben�tigten Zusatzparametern eingeben. Falls der Pfad
+Leerzeichen enth�lt, so muss er mit " eingeschlossen werden!

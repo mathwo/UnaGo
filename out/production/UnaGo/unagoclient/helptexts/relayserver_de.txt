@@ -1,0 +1,4 @@
+In diesem Dialog k�nnen Sie einen Relay-Server einstellen. Dies ist ein
+Server, der ein spezielles Program laufen l��t, das ihre Eingaben an den
+Internet-Server weitergibt. Ein solcher Server ist notwendig, wenn Sie
+UnaGo in ihrem Browser laufen lassen.

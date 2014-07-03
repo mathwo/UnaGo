@@ -1,0 +1,17 @@
+UnaGoClient
+
+jagClient ist ein Client zur Verbindung mit einem der Internet Go
+Server und ein SGF-Editor.
+
+Copyright Rene Grothmann.
+
+Das Programm ist frei verf�gbar unter der Gnu General Public License
+(Gnu GPL).
+
+Der Autor �bernimmt keine Verantwortung f�r dieses Programm.
+
+Die neueste Version ist erh�ltlich �ber
+
+"http://www.rene-grothmann.de/UnaGo".
+
+Dort finden Sie auch meine EMail-Adresse.

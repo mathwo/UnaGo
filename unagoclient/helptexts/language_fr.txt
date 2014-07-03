@@ -1,0 +1,6 @@
+Sp�cifier la langue
+
+Dans cette bo�te de dialogue, vous pouvez choisir la langue de
+l'interface de UnaGo, qui peut �tre diff�rente de votre langue; ou sinon
+le programme utilise par d�faut l'anglais. Pour obtenir d'autres langues,
+visiter la page web de UnaGo.

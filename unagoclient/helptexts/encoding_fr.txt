@@ -1,0 +1,18 @@
+D�finir l'encodage
+
+Cette page d�finit l'encodage pour la lecture et l'�criture des fichiers
+locaux. Si vous n'�tes pas s�r de cet encodage, effacer la cha�ne et
+pressez OK. UnaGo utilisera l'encodage local par d�faut.
+
+Cet option permet de lire des fichiers SGF �trangers. I.e. Cp850
+permettra de lire des fichiers DOS correctement et 8859_1 est
+l'encodage par d�faut du fran�ais. Evidemment, ne vous attendez pas
+� pouvoir affichez des commentaires en japonais sur un ordinateur
+occidental, � moins que vous ayez installez les polices requises
+pour cela. Un autre encodage utile est l'UTF-8, qui �crit de l'UTF-8
+encod� en Unicode. Vous pouvez aussi utiliser l'Unicode lui-m�me,
+mais votre fichier SGF sera lisible pratiquement nulle part.
+
+Vous pouvez choisir l'encodage pour un serveur individuellement
+dans les options de connexion au serveur.
+

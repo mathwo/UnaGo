@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="UnaGo:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="650294ec-3e36-4240-8987-024294682ac1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/allback.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/allforward.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/back.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/black.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/circle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/click.au" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/click.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/delete.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/deletemarks.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/fastback.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/fastforward.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/forward.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/game.au" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/game.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/high.au" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/high.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gifs/iboard.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gifs/iconn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gifs/igames.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gifs/ihelp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gifs/iunago.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gifs/iwho.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/letter.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/main.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/mainend.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/mark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/message.au" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/message.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/play.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/send.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/sendforward.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/setblack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/setwhite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/square.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/stone.au" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/stone.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/text.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/triangle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/undo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/variationback.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/variationforward.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/variationstart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/icons/white.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/wip.au" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/wip.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/yourmove.au" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/au/yourmove.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/Action.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/ActionTranslator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/ActionTranslator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/ftp/Answer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/BMPFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/BMPFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sound/Beep.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/BigLabel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/BigTimerLabel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/BoardCommentPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/BoardInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/BoardQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/ButtonAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/ButtonAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/CardPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/Change.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/ChannelDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/ChannelDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/CheckboxAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/CheckboxAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/CheckboxMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/CheckboxMenuItemAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/CheckboxMenuItemAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/ChoiceAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/ChoiceAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/CloseConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/CloseDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/CloseDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/CloseFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/CloseFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/CloseListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/CloseListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/CloseMainQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/ClosePartnerQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/dialogs/ColorEdit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/ColorEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/CommentNavigationPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/Connect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/ConnectPartner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/ConnectedBoard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/ConnectedGoFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/connection/Connection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/ConnectionFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/datagram/DatagramMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/Distributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/DoActionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/DoActionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/Dump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/connection/EditConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/partner/EditPartner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/lister/Element.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/EmptyPaint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/EndGameQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/ErrorDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/ExtendedViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/ftp/FTP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/FTPFileDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/FileList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/FileName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/FocusRequester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/FontEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/FormTextField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/FormTextField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/dialogs/FunctionKeyEdit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gmp/GMPConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gmp/GMPConnector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gmp/GMPGoFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gmp/GMPInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/GameQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/games/GamesDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/games/GamesFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/games/GamesObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/dialogs/GetFontSize.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/GetParameter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/dialogs/GetParameter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/Global.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/Global.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Go.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/Go.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/GoFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/GoObserver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/GoTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/GrayTextField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/dialogs/Help.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/dialogs/HelpDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/HistoryTextField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/HistoryTextField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/HistoryTextFieldChoice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/IconBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/IconBarListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/IconBarPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/IgsGoFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/IgsStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/ImageSelection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/InfoDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/InformationDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/InformationDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/IntField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/IntField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/ItemEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/ItemEditorElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/ItemPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/KeyDictionary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/Keyboard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/KeyboardController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/KeyboardInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/KeyboardItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/KeyboardPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/LabelAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/Line.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/ListAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/list/ListClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/list/ListElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/lister/Lister.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/Lister.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/lister/ListerMouseEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/lister/ListerPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/LocalGo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/LocalGoFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/mail/MailCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/mail/MailDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/mail/MailMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/MainFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/MarkAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/MatchDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/who/MatchQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MenuItemAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/MenuItemAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/dialogs/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/MessageDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/MessageDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/MessageFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyCheckboxMenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyChoice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/MyFileDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyLabel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/MyLabel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/MyMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyMenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/MyPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyPopupMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/MyTextArea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/MyTextField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/MyVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/NavigationButtonAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/NavigationPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/ObserveDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/OpenPartnerFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/OutputFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/OutputLabel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/OutputListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/mail/POP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/Panel3D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/Panel3D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/partner/Partner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/PartnerFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/PartnerGoFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/PartnerSendQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/PartnerServerThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/PartnerThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/Peeker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/PlayDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/PngEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/Position.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/regexp/PositionRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/PrintBoard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/ProxyIgsStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/Question.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/dialogs/Question.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/ReceiveThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/regexp/RegExp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/ResultQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/ftp/SFTP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/SGFTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/SVGWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/SayDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/SayDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/SearchFileDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/mail/SendMail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/SendQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/Server.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/ShadowPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/SimpleByteBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/SimplePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/SimplePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/SimpleStringBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sort/SortObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sort/SortString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sort/SortStringNoCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sort/Sorter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sound/Sound.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sound/Sound11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sound/Sound13.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/sound/SoundList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/Status.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/StatusDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/StopThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/lister/StringElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/parser/StringParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/SystemLister.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/SystemViewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/who/TellQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/TelnetStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/TestEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/TextDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/TextFieldAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/TextFieldAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/gui/TextFieldActionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/gui/TextFieldActionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/TextPosition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/TimedBoard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/list/Tree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/TreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UnaGo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/UnaGo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/UnaGoGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/UnaGoGameFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/UnaGoGameOther.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_de.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_es.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_fr.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_it.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_ja.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_ko.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_pl.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_pt.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_ru.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/foreign/UnaGoResource_zh.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/sound/UnaGoSound.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/partner/UndoQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/Viewer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/dialogs/Warning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/lister/Wheel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/Wheel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/lister/WheelListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/viewer/WheelListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/who/WhoDistributor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/who/WhoFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/igs/who/WhoObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/board/WoodPaint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlReaderException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlTagPI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlTagRoot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlTagText.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlTranslator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rene/util/xml/XmlWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/about.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/about_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/about_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/about_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/about_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/about_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/about_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/advanced.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/advanced_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/advanced_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/advanced_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/advanced_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/advanced_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/advanced_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/board.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/board_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/board_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/board_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/board_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/board_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/board_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/channels.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/channels_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/channels_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/channels_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/channels_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/channels_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/channels_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/configure.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/configure_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/configure_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/configure_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/configure_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/configure_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/configure_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/confpartner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/confpartner_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/confpartner_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/confpartner_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/confpartner_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/confpartner_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/confpartner_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/encoding.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/encoding_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/encoding_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/encoding_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/encoding_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/encoding_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/encoding_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filter.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/filter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/filter_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/filter_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/filter_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/filter_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/filter_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/filter_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/firewall.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/firewall_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/firewall_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/firewall_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/firewall_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/firewall_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/firewall_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/fkeys.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/fkeys_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/fkeys_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/fkeys_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/fkeys_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/fkeys_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/fkeys_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/games.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/games_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/games_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/games_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/games_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/games_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/games_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/gmp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/gmp_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/gmp_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/gmp_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/help.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/help_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/help_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/help_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/help_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/help_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/help_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/igs.protocol.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/keyboard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/keyboard_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/keyboard_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/keyboard_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/keyboard_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/keyboard_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/language.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/language_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/language_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/language_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/language_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/language_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/language_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/mail.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/mail_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/mail_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/mail_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/mail_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/mail_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/mail_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/moves.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/moves_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/moves_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/moves_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/moves_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/moves_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/moves_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/obsplay.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/obsplay_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/obsplay_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/obsplay_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/obsplay_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/obsplay_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/obsplay_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/overview.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/overview_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/overview_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/overview_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/overview_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/overview_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/overview_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/partner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/partner_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/partner_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/partner_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/partner_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/partner_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/partner_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/playing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/playing_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/playing_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/playing_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/playing_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/playing_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/playing_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/port.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/port_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/port_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/port_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/port_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/port_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/port_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/readme_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/relayserver.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/relayserver_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/relayserver_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/relayserver_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/relayserver_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/relayserver_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/relayserver_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/server.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/server_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/server_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/server_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/server_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/server_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/server_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sgf.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sgf_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sgf_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sgf_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sgf_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sgf_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sgf_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sound.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sound_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sound_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sound_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sound_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sound_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/sound_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/teaching.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/teaching_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/teaching_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/teaching_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/teaching_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/terminal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/terminal_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/terminal_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/terminal_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/terminal_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/terminal_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/terminal_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/variations.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/variations_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/variations_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/variations_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/variations_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/variations_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/variations_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/version.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/who.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/who_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/who_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/who_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/who_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/who_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/who_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/windows.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/windows_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/windows_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/windows_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/windows_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/windows_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/windows_ru.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/yourname.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/yourname_de.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/yourname_fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/yourname_it.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/yourname_ja.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/yourname_pl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unagoclient/helptexts/yourname_ru.txt" />
+    </list>
+    <ignored path="jagosrc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jagosrc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Action.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/board/Action.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2601" max-vertical-offset="5644">
+              <caret line="153" column="30" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Board.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/board/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="61353">
+              <caret line="60" column="102" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloseFrame.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unagoclient/gui/CloseFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24815725" vertical-offset="341" max-vertical-offset="2533">
+              <caret line="36" column="50" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintBoard.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/board/PrintBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="4114">
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectedGoFrame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/board/ConnectedGoFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3757" max-vertical-offset="7973">
+              <caret line="221" column="38" selection-start-line="221" selection-start-column="38" selection-end-line="221" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IgsStream.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/igs/IgsStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6052" max-vertical-offset="10030">
+              <caret line="356" column="33" selection-start-line="356" selection-start-column="33" selection-end-line="356" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardInterface.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/board/BoardInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="2363">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Position.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/board/Position.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4607" max-vertical-offset="5219">
+              <caret line="271" column="4" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/board/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="5848">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Field.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unagoclient/board/Field.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2040" max-vertical-offset="3349">
+              <caret line="120" column="26" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="L:/JAVA_Dropbox/spring-guides/gs-rest-service" value="1382128231901" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jagoclient/partner/PartnerFrame.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/EndGameQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/MainFrame.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/connection/EditConnection.java" />
+        <option value="$PROJECT_DIR$/jagoclient/mail/MailDialog.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/BoardQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/ClosePartnerQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/who/MatchQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/partner/EditPartner.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/MessageFilter.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/PartnerSendQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/ResultQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/InformationDialog.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/JagoGameFrame.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/MessageDialog.java" />
+        <option value="$PROJECT_DIR$/jagoclient/Jago.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/UndoQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/Status.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/ConnectionFrame.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/ChannelDialog.java" />
+        <option value="$PROJECT_DIR$/jagoclient/CloseMainQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/Server.java" />
+        <option value="$PROJECT_DIR$/jagoclient/igs/who/TellQuestion.java" />
+        <option value="$PROJECT_DIR$/jagoclient/dialogs/FunctionKeyEdit.java" />
+        <option value="$PROJECT_DIR$/rene/util/TestEncoder.java" />
+        <option value="$PROJECT_DIR$/jagoclient/partner/GameQuestion.java" />
+        <option value="$PROJECT_DIR$/rene/gui/Keyboard.java" />
+        <option value="$PROJECT_DIR$/rene/gui/Global.java" />
+        <option value="$PROJECT_DIR$/rene/util/mail/SendMail.java" />
+        <option value="$PROJECT_DIR$/jagoclient/dialogs/GetFontSize.java" />
+        <option value="$PROJECT_DIR$/rene/dialogs/FontEditor.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/BigTimerLabel.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/Action.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/SGFTree.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/Node.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/ConnectedGoFrame.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/Field.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/Position.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/PrintBoard.java" />
+        <option value="$PROJECT_DIR$/rene/gui/IconBar.java" />
+        <option value="$PROJECT_DIR$/jagoclient/board/Board.java" />
+        <option value="$PROJECT_DIR$/unogoclient/board/Board.java" />
+        <option value="$PROJECT_DIR$/unagoclient/board/Board.java" />
+        <option value="$PROJECT_DIR$/unagoclient/gui/CloseFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="2" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnaGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="UnaGo">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project/IntelliJ/JDK8" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Jagoclient">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="jagoclient.Go" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Jagoclient" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="unagoclient.Go" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jagosrc" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Jagoclient" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" SSL_PROTOCOLS="all">
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="650294ec-3e36-4240-8987-024294682ac1" name="Default" comment="" />
+      <created>1404264080573</created>
+      <updated>1404264080573</updated>
+      <workItem from="1404264081870" duration="26000" />
+      <workItem from="1404264147685" duration="47000" />
+      <workItem from="1404264231559" duration="93000" />
+      <workItem from="1404264325176" duration="631000" />
+      <workItem from="1404265534792" duration="3639000" />
+      <workItem from="1404315371220" duration="197000" />
+      <workItem from="1404317753506" duration="60000" />
+      <workItem from="1404318401602" duration="434000" />
+      <workItem from="1404324512642" duration="11525000" />
+      <workItem from="1404346646831" duration="9480000" />
+      <workItem from="1404368140368" duration="53000" />
+      <workItem from="1404368193660" duration="610000" />
+      <workItem from="1404369170108" duration="36000" />
+      <workItem from="1404369230971" duration="18000" />
+      <workItem from="1404369250007" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26963000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3548387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32844576" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37683284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unagoclient/board/Board.java</url>
+          <line>472</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unagoclient/board/Board.java</url>
+          <line>527</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/ConnectionFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11424">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/PartnerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9401" max-vertical-offset="10455">
+          <caret line="553" column="27" selection-start-line="553" selection-start-column="27" selection-end-line="553" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/EndGameQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="629">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7796" max-vertical-offset="9469">
+          <caret line="476" column="62" selection-start-line="476" selection-start-column="62" selection-end-line="476" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/PartnerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8850" max-vertical-offset="10047">
+          <caret line="553" column="27" selection-start-line="553" selection-start-column="27" selection-end-line="553" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/EndGameQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="612">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1965" max-vertical-offset="9469">
+          <caret line="145" column="18" selection-start-line="145" selection-start-column="18" selection-end-line="145" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/connection/EditConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1710" max-vertical-offset="3162">
+          <caret line="117" column="24" selection-start-line="117" selection-start-column="24" selection-end-line="117" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/mail/MailDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1428">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/BoardQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="732" max-vertical-offset="1275">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/ClosePartnerQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/who/MatchQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="647" max-vertical-offset="1275">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/partner/EditPartner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="613" max-vertical-offset="2261">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/MessageFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4540" max-vertical-offset="5168">
+          <caret line="289" column="24" selection-start-line="289" selection-start-column="24" selection-end-line="289" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/PartnerSendQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="307" max-vertical-offset="884">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/ResultQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="205" max-vertical-offset="714">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/InformationDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="1343">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/MessageDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="2465">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/UnaGo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="682" max-vertical-offset="1088">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/UndoQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="612">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1345" max-vertical-offset="1751">
+          <caret line="93" column="27" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/ConnectionFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="545" max-vertical-offset="10880">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/ChannelDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="613" max-vertical-offset="1632">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/CloseMainQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="425">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="698" max-vertical-offset="1972">
+          <caret line="59" column="35" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/who/TellQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1224">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/dialogs/FunctionKeyEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="426" max-vertical-offset="867">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rene/util/TestEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4030" max-vertical-offset="4692">
+          <caret line="256" column="24" selection-start-line="256" selection-start-column="24" selection-end-line="256" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/partner/GameQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="562" max-vertical-offset="1411">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rene/gui/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2857" max-vertical-offset="4063">
+          <caret line="187" column="32" selection-start-line="187" selection-start-column="27" selection-end-line="187" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rene/gui/Global.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3078" max-vertical-offset="7735">
+          <caret line="203" column="19" selection-start-line="203" selection-start-column="19" selection-end-line="203" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rene/util/mail/SendMail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1375" max-vertical-offset="2006">
+          <caret line="97" column="46" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/dialogs/GetFontSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="2669">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="65" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rene/dialogs/FontEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="766" max-vertical-offset="2550">
+          <caret line="61" column="58" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/BigTimerLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igs.protocol.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2660" max-vertical-offset="7531">
+          <caret line="161" column="30" selection-start-line="161" selection-start-column="30" selection-end-line="161" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/UnaGoGameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="3842">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/ConnectedBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2168" max-vertical-offset="2414">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/SGFTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3621" max-vertical-offset="14348">
+          <caret line="110" column="35" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/GoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="33008" max-vertical-offset="37961">
+          <caret line="2011" column="41" selection-start-line="2011" selection-start-column="36" selection-end-line="2011" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/BoardInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2363">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/igs/IgsStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5588" max-vertical-offset="9690">
+          <caret line="356" column="33" selection-start-line="356" selection-start-column="33" selection-end-line="356" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2341" max-vertical-offset="5508">
+          <caret line="153" column="30" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/ConnectedGoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3497" max-vertical-offset="7837">
+          <caret line="221" column="38" selection-start-line="221" selection-start-column="38" selection-end-line="221" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1905" max-vertical-offset="2839">
+          <caret line="120" column="26" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="5372">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/PrintBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="4080">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rene/gui/IconBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12315271" vertical-offset="3588" max-vertical-offset="31450">
+          <caret line="229" column="56" selection-start-line="229" selection-start-column="47" selection-end-line="229" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4607" max-vertical-offset="5219">
+          <caret line="271" column="4" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/board/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="60656">
+          <caret line="60" column="102" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unagoclient/gui/CloseFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24815725" vertical-offset="341" max-vertical-offset="2533">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>UnaGo:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>UnaGo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>UnaGo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

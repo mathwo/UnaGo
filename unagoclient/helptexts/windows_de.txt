@@ -1,0 +1,18 @@
+Fenster
+
+Details �ber Fenster h�ngen vom Betriebssystem ab.
+
+Leider gibt es einen Bug in Windows, der der Eingabe von @ in Textzeilen
+verhindert. Dr�cken Sie stattdessen ALT-6-4.
+
+UnaGo kann sich die Gr��e und Position von Fenstern merken. Dies mu� man
+allerdings selbst veranlassen. Diese Einstellungen werden in einer Datei
+namens go.cfg abgespeichert.
+
+Von Textzeilen und Ausgabefenstern l��t sich auf die �bliche Art und
+Weise Text mit der Zwischenablage austauschen. Dazu klicken Sie mit der
+rechten Maustaste und w�hlen das entsprechende Kommando aus. Die
+normalen Tasten (CTRL-C usw.) sollte auch funktionieren.
+
+Die Textfelder, die Kommandos an den Server schicken, merken sich alte
+Kommandos. Benutzen Sie die Pfeiltasten, um diese Kommandos aufzurufen.

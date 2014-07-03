@@ -1,0 +1,37 @@
+Observer ou jouer
+
+Vous devez savoir qu'� cause d'un d�faut dans le protocole avec le
+serveur, il peut y avoir des probl�mes pour determiner la bonne taille
+du plateau du jeu.
+
+Premi�rement, si vous choisissez d'observer une partie, UnaGo ouvrira
+une fen�tre avec un plateau du jeu � observer. Il lancera ensuite une
+commande "status" , principalement pour conna�tre la taille du plateau.
+Apr�s cela, il commencera � observer la partie. Alors le serveur
+enverra un coup pour ce num�ro de partie; il sera rejetter par UnaGo qui
+veut d'abord tous les coups pr�c�dents. Et donc la commande "moves"
+sera ex�cuter et la position affich�e.
+
+Si vous fermez la fen�tre d'une partie que vous observez, la commande
+"unobserve" est envoy�e (au serveur).
+
+Deuxi�mement, si vous commencez � jouer une partie, le num�ro de
+partie n'est pas connu et UnaGo r�cup�re la premi�re partie inconnue
+pour ensuite ouvrir un plateau de jeu. Apr�s que la commande "status"
+a �t� ex�cut� (voir plus haut), UnaGo chargera l'�tat du plateau, m�me
+si la partie a �t� ajourn�e auparavant. Fermer la fen�tre d'un plateau
+n'envoiera rien (au serveur).
+
+Cete proc�dure soul�ve plusieurs probl�mes.
+
+(a) Vous fermez un plateau de jeu accidentellement. Dans ce cas,
+ajourner et recharger le jeu.
+
+(b) Vous obtenez un plateau pour jouer, alors que vous vouliez un plateau
+pour observer. Cela peut arriver si le serveur commence ou continue
+d'envoyer des coups (d�lai du reseau ou autre raison). Cela ne doit
+pas vous inqui�ter, car vous pouvez d�selectionner "jouer", et les
+coups ne seront plus envoyer.
+
+(c) vous pouvez m�me jouer sur un plateau d'observation, en
+selectionnant "jouer".

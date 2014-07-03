@@ -1,0 +1,27 @@
+Usage des fen�tres
+
+Les d�tails sont fonction de votre syst�me d'explotation.
+
+UnaGo conserve la taille et la position des fen�tres dans le fichier go.cfg.
+Il essaye d'�crire ce fichier dans le repertoire courant. Vous devez
+donc avoir les droits en �criture dans celui-ci. Dans les environnements
+multi-utilisateurs, vous devez installer un r�pertoire local pour UnaGo
+pour chaque utilisateur. Ensuite un script pourra lancer UnaGo de ce
+r�pertoire. Vous passez le r�pertoire de UnaGo comme argument avec le
+param�tre -home (ou encore -h ).
+
+La plupart des syst�mes permet le copier-coller � partir des zones de
+texte. Avec Windows, utiliser Ctrl-C pour copier dans le pressse-papier,
+et Ctrl-V pour coller dans un zone de saisie de UnaGo. Ou utiliser un clic droit
+avec la souris pour avoir un menu contextuel. UnaGo utilise un remplacement
+pour le texte � moins que vous ayez choisi les zones de texte normales dans
+les options avanc�es. Cela permet d'avoir des sorties color�s et de ne pas
+avoir de contrainte de taille. Le remplacement peut copier dans le
+presse-papier.
+
+On peut fermer les bo�tes de dialogue avec la touche Echap, si elles
+ont le focus.
+
+Les zones de saisie qui envoie des commandes au serveur, ont un historique.
+Vous pouvez rappeller les commandes pr�c�dentes avec la touche Vers le haut.
+

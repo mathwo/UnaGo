@@ -1,0 +1,12 @@
+Hilfe �ber Hilfe
+
+Das Hilfesytem besteht aus einer Reihe von Textdateien, die Sie selbst
+ver�ndern k�nnen. Die deutsche Hilfe ist ein einem Jar-Fiele gepackt.
+Sie k�nnen sie allerdings mit jedem normalen Zip-Programm entpacken und
+wieder einpacken.
+
+Die Hilfedateien m�ssen sich im aktuellen CLASSPATH befinden. Starten
+Sie dazu UnaGo in der Form (f�r DOS)
+
+set CLASSPATH=c:\UnaGo\UnaGo.jar;c:\UnaGo\UnaGoResource_de.jar
+java Go

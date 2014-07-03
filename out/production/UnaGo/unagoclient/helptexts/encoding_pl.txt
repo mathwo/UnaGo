@@ -1,0 +1,15 @@
+Strona kodowa
+
+Ustawienia te dotycz� czytania i zapisywania plik�w lokalnych. Je�li
+nie jeste� pewien co do Twojej strony kodowej, skasuj to pole i
+naci�nij OK. UnaGo ustawi domy�ln� stron� kodow�.
+
+Opcja ta jest przeznaczona do czytania plik�w SGF. Na przyk�ad Cp850
+b�dzie poprawnie obs�ugiwa�o pliki napisane pod systemem DOS a z kolei
+Cp1250 mo�e by� domy�ln� strona kodowa polskich znak�w. Oczywi�cie,
+nie mo�esz oczekiwa�, ze b�d� wy�wietlane japo�skie komentarze je�li
+wcze�niej nie masz zainstalowanych odpowiednich czcionek. Inna pomocna
+strona kodowa jest UTF8, kt�ra zapisuje znaki w tzw. Unicode. U�ywaj�c
+jej Twoje pliki b�d� odczytywane niemal wsz�dzie.
+
+Mo�esz ustawi� stron� kodowa dla ka�dego po��czenia oddzielnie.

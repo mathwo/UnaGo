@@ -1,0 +1,22 @@
+Vous pouvez ici modifier les options, qui peuvent am�liorer
+le comportement de UnaGo sur votre syst�me.
+
+"Boites de dialogues a�r�s" doit comprimer les messages de boites dialogues
+au lieu d'essayer de m�moriser leur position.
+
+"Utiliser l'ic�ne de fen�tre" utilisera l'ic�ne UnaGo dans la barre de titre
+
+"Utiliser les zones de texte/listes AWT" vous permet d'utiliser les zones de texte
+normales et les listes des jeux/joueurs. Si vous n'�tes pas satisfait par les
+r�ponses du serveur dans le Terminal de Connexion, essayez d'utiliser les
+zones de texte AWT. Cela peut �tre plus rapide ou plus lent, suivant votre
+syst�me. De plus, vous ne serez capable de stocker qu'un maximum de 32kb.
+L'option Liste ne s'applique qu'aux listes de jeux/joueurs  ou similaire.
+
+"Confirmations" affiche une demande de confirmation en fermant un plateau
+de jeu, une connection ou en quittant UnaGo.
+
+"Linux" g�re les fonctions sp�ciales de la JVM Linux. Premi�rement, les fen�tres
+se fermeront plus rapidement. Deuxi�mement, les boutons de navigation sont
+utilis�s normalement (ce qui est lent sous Windows, mais pas Linux)
+

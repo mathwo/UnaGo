@@ -1,0 +1,39 @@
+Formaty partii
+
+W programie u?ywa si? formatu XML lub SGF. Istniej? inne programy
+obs?uguj?ce te rozszerzenia tak wi?c mo?esz w nich u?ywa? swoich
+plik�w. Jako przyk?ad mo?e s?u?y? Smart Go, Many Faces of Go (WINDOWS)
+i cgoban (UNIX). Istniej? te? inne formaty, chocia?by format Goscribe
+(rozszerzenie .go)
+
+XML jest standardowym rozszerzeniem u?ywanym do przechowywania danych
+i miar? up?ywu czasu powinien stawa? si? coraz powszechniejszy. W tej
+chwili UnaGo jest jednak jedynym programem obs?uguj?cym ten format w
+zwi?zku z czym ustanawia w?asne standardy. Wi?cej informacji na ten
+temat znajduje si? na stronie UnaGo.
+
+Niekt�re przegl?darki SGF nie obs?uguj? wszystkich tag�w, dotyczy to
+zw?aszcza etykiet i znacznik�w. Je?li wi?c u?ywasz etykiet UnaGo
+zapisywane s? one w pliku SGF z tagiem L, kt�ry nie jest oficjalnie
+cz??ci? formatu SGF. Wi?kszo?? znanych mi program�w nie ma z nim
+problem�w, cho? niekt�re nie odczytuj? LB. Podobne problemy napotka?
+mo?na w przypadku znacznik�w.
+
+Aby upewni? si? ?e u?ywasz standardowego formatu SGF sprawd?
+ustawienia w menu �pure SGF�. W??czenie tej opcji sprawi ?e MGT nie
+odczyta twoich etykiet i znacznik�w tak wi?c je?li u?ywasz MGT
+pozostaw format bez zmian.
+
+Kolejn? kwesti? jest format zapisu komentarza i innych d?u?szych
+tekst�w. W SGF ka?da linia traktowana jest jako akapit. Linie mo?na
+?ama? nie ko?cz?c akapitu. W UnaGo paragrafy oddzielone s? pustymi
+liniami, podobnie rozwi?zanie przyj?to w innych przegl?darkach.
+WinMGT32 np. pomija ?amania nie ko?cz?ce akapitu i wy?wietla zwini?te
+linie komentarza. Proponujemy jednak u?ywa? standardu SGF.
+
+Aby upewni? si? ?e plik b?dzie dobrze odczytany przez MGT nie wybieraj
+opcji �pure SGF� i pomijaj specjalne znaczniki.
+
+
+
+

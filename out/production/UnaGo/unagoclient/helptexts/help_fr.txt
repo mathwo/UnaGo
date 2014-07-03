@@ -1,0 +1,9 @@
+A propos de l'aide
+
+Le syst�me d'aide est fait de plusieurs fichiers avec l'extension TXT. Vous
+pouvez les �diter et les changer suivant votre envie.
+
+Les fichiers d'aide en anglais sont compact�s dans l'archive UnaGo.jar, et ce
+sont les fichiers d'aide par d�faut. Vous aurez besoin de d�compresser
+cette archive, d'�diter les fichiers et de les recompresser en jar, en y incluant
+tous les fichiers class et ressources.

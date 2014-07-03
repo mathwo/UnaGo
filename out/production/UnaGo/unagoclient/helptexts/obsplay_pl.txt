@@ -1,0 +1,36 @@
+Obserwacja a rozgrywka
+
+Nale�y zdawa� sobie spraw�, �e niefortunnie sformu�owany protok�
+serwera powoduje czasem b��dy w ocenie wielko�ci planszy.
+
+Przede wszystkim gdy zaczynasz obserwacj� dowolnej gry UnaGo uruchamia
+plansz� obserwatora. Nast�pnie wysy�ane jest pro�ba o przes�anie stanu
+gry, g��wnie po to by klient dowiedzia� si� jaka jest wielko��
+planszy. Dopiero po tych czynno�ciach rozpoczyna si� w�a�ciwa
+obserwacja. Serwer wysy�a teraz ruch do tej gry - ruch ten jest jednak
+odrzucany UnaGo bowiem ��da najpierw poprzednich ruch�w. Tak wi�c
+rozpoczyna si� przesy�anie ruch�w i na planszy pojawiaj� si� piony.
+
+Gdy zamykasz plansze obserwatora serwer otrzymuje polecenia
+unobserve.
+
+Drug� rzecz� o kt�rej nale�y pami�ta� to fakt, �e gdy rozpoczynasz
+gr�, jej numer jest nieznany tak wi�c UnaGo wybiera pierwszy nieu�ywany
+numer gry i otwiera plansz�. Gdy pro�ba o podanie stanu (patrz wy�ej)
+zostanie ju� wys�ana UnaGo �aduje pozycj� - mo�e si� bowiem zdarzy�, �e
+nowa gra jest wznowieniem przerwanej gry. Zamykanie planszy nie
+przesy�a �adnego polecenia.
+
+Procedura ta mo�e powodowa� problemy przy:
+
+- przypadkowym zamkni�ciu planszy - w takim wypadku nale�y gr� zawiesi� (adjourn) i za�adowa� od nowa
+- obserwacji:
+
+1. czasem zamiast planszy obserwatora otwiera si� plansza do
+rozgrywki. Mo�e si� tak zdarzy� gdy serwer zaczyna lub wci�� przesy�a
+do ciebie ruchy (z powodu op�nienia przesy�u czy te� innych powod�w).
+W zasadzie nie jest to powa�ny problem, mo�na jednak wy��czy� tryb
+gry, co spowoduje �e ruchy przestan� by� do ciebie wysy�ane.
+
+2. przy w��czonym trybie gry istnieje mo�liwo�� zagrywania na plansz�
+obserwatora (osobi�cie nie znam klienta, kt�ry by to umo�liwia�)

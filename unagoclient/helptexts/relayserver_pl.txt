@@ -1,0 +1,9 @@
+Istnieje mo?liwo?? ustawienia serwera retransmisji. Opcji tej u?ywa?
+nale?y tylko przy obs?udze UnaGo przez przegl?dark?. W takim przypadku
+tw�j serwer (ten na kt�rym znajduje nak?adka UnaGo) uruchamia demona
+retransmituj?cego. Standardowo opcja ta uruchamiana jest przez
+administratora.
+
+System retransmituj?cy mo?na omin?? w ustawieniach bezpiecze?stwa dla
+nak?adek Javy � taka mo?liwo?? dost?pna jest na przyk?ad w Internet
+Explorer

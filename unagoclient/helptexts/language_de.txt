@@ -1,0 +1,8 @@
+Sprache Festlegen
+
+Falls Sie es wollen, k�nnen Sie UnaGo in einer anderen Sprache betreiben.
+Sie ben�tigen dazu die entsprechende Resourcendatei. Wenn Sie eine
+Sprache einstellen, deren Resource Sie nicht haben (oder die Einstellung
+leer lassen), so wird die englische Resource in UnaGo.jar verwendet.
+
+Das Hauptfenster wird erst beim n�chsten Start von UnaGo �bersetzt.

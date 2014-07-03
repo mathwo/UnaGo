@@ -1,0 +1,56 @@
+Jouer des parties
+
+Pour jouer un coup, cliquez simplement sur une intersection du plateau.
+Si vous jouez sur Internet, le coup sera envoy� au serveur, et appara�tra
+sur votre plateau, seulement quand le serveur aura accept� le coup.
+
+Placer le handicap se fait diff�remment suivant qu'il s'agit d'une partie
+en local ou non. Dans les parties locales, vous posez vos pierres de
+handicap puis choisissez D�finir/A blanc de jouer pour commencer
+la partie. Dans les parties Internet vous utiliserez la commande "handicap".
+Envoyez
+
+handicap 6
+
+au serveur pour une partie � 6 pierres de handicap. Le serveur affichera
+les pierres sur le plateau.
+
+Vous pouvez utilisez la commande passer dans les parties en local ou non.
+
+Durant la partie, vous pouvez cr�er ou explorer des variantes (voir la
+section sur les variantes). Utilisez le bouton ** pour revenir � la position
+de la partie en cours. Vous pouvez m�me cr�er un variante de la position
+actuelle et l'�tudier.
+
+Finir une partie se fait diff�remment pour les parties locales ou non-locales.
+
+Pour finir une partie locale, uitlisez "Retirer les groupes" pour enlever
+les pierres mortes et puis "R�sultat final" pour obtenir le score. Vous aurez
+un d�compte suivant les r�gles chinoises et japonaises. UnaGo ne prend pas
+en compte les territoires en Seki, qui ne sont pas compter par la r�gle
+japonaise. Dans la plupart des cas, cela fera pencher la balance.
+
+Pour finir une partie non-locale, passer votre tour. Si votre adversaire
+passe aussi, vous aurez un message du serveur (IGS a besoin de 3 passes).
+Choisissez "Retirer les groupes" et enlevez les groupes morts. Ces retraits
+seront envoy�s au serveur. Ignorer les erreurs du serveur au sujet de la
+suppression de ces groupes. Car ces groupes ont d�j� pu �tre retirer par
+votre adversaire. Ensuite, choisissez "D�compte local". Cela affichera le
+score en local. Si vous �tes d'accord, utiliser l'entr�e de menu "Envoi Score".
+Le serveur fera son propre d�compte et vous le donnera.
+
+Si vous voulez annuler des retraits, les protocoles ne sont pas les m�mes
+suivant IGS et NNGS. De toute fa�on, les pierres r�appara�tront
+imm�diatement apr�s votre annulation. Mais NNGS ram�ne la position
+juste apr�s la premi�re passe. Donc vous devrez passer une fois encore.
+IGS ne fait pas �a, mais notifiera l'autre joueur de votre annulation. Ce joueur
+devra pressez aussi annuler. Ca devrait marcher. L'autre joueur peut aussi
+annuler tous les retraits ayant eu lieu avec une entr�e du menu.
+
+Pour finir une partie avec un partenaire, reportez vous � la section
+dans l'aide Connexion � un partenaire.
+
+De plus, vous pouvez utiliser le retrait des groupes locaux et v�rifier
+le score dans toutes les variantes d'une partie sur Internet. Vous
+pouvez donc contr�ler votre score d�connect� (off-line) avant de finir
+la partie. Dans ce cas, n'oubliez pas le Komi.
