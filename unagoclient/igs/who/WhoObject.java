@@ -1,15 +1,8 @@
 package unagoclient.igs.who;
 
 import rene.util.parser.StringParser;
-import rene.util.sort.SortObject;
 
-/**
- * This is needed for the Sorter class.
- *
- * @see rene.util.sort.Sorter
- */
-
-public class WhoObject implements SortObject {
+public class WhoObject implements Comparable<WhoObject> {
     String S, Name, Stat;
     public int V;
     boolean SortName;
@@ -50,8 +43,8 @@ public class WhoObject implements SortObject {
     }
 
     @Override
-    public int compare(SortObject o) {
-        final WhoObject g = (WhoObject) o;
+    public int compareTo(WhoObject o) {
+        final WhoObject g = o;
         if (this.SortName) {
             return this.Name.compareTo(g.Name);
         } else {

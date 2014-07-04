@@ -17,3 +17,7 @@ blocks.
 * make dataLayer, domainLayer and presentationLayer for the classes
 
 * Further optimizations, refactoring
+
+* GUI changes for local editor
+
+* Add more columns (status, win/lose numbers) to IGS users list 

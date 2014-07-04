@@ -1,9 +1,7 @@
 package rene.util;
 
-import rene.util.sort.SortObject;
-import rene.util.sort.Sorter;
-
 import java.io.File;
+import java.util.Arrays;
 import java.util.Enumeration;
 import java.util.StringTokenizer;
 import java.util.Vector;
@@ -66,7 +64,7 @@ public class FileList {
     }
 
     /**
-     * @param file
+     * @param dir
      *            The directory that has been found.
      * @return false if recursion should stop here. (i.e. that directory needs
      *         not be parsed).
@@ -176,7 +174,7 @@ public class FileList {
      }
 
      /**
-      * @param parsed
+      * @param dir
       *            The directory that has been parsed.
       */
      protected void parsed(File dir) {
@@ -209,20 +207,20 @@ public class FileList {
       */
      public void sort() {
          int i, n = this.V.size();
-         SortObject v[] = new SortObject[n];
+         Object v[] = new Object[n];
          for (i = 0; i < n; i++) {
-             v[i] = (SortFile) this.V.elementAt(i);
+             v[i] = this.V.elementAt(i);
          }
-         Sorter.sort(v);
+         Arrays.sort(v);
          for (i = 0; i < n; i++) {
              this.V.setElementAt(v[i], i);
          }
          n = this.Vdir.size();
-         v = new SortObject[n];
+         v = new Object[n];
          for (i = 0; i < n; i++) {
-             v[i] = (SortFile) this.Vdir.elementAt(i);
+             v[i] = this.Vdir.elementAt(i);
          }
-         Sorter.sort(v);
+         Arrays.sort(v);
          for (i = 0; i < n; i++) {
              this.Vdir.setElementAt(v[i], i);
          }
@@ -242,7 +240,7 @@ public class FileList {
      }
 }
 
-class SortFile extends File implements SortObject {
+class SortFile extends File implements Comparable<File> {
     /**
      *
      */
@@ -261,8 +259,8 @@ class SortFile extends File implements SortObject {
     }
 
     @Override
-    public int compare(SortObject o) {
-        final SortFile f = (SortFile) o;
+    public int compareTo(File o) {
+        final SortFile f = (SortFile)o;
         if (SortFile.SortBy == SortFile.DATE) {
             final long n = f.lastModified();
             final long m = this.lastModified();

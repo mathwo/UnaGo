@@ -1,7 +1,7 @@
 package rene.gui;
 
 /*
- This file contains a keyboard translater. It translates key strokes
+ This file contains a keyboard translator. It translates key strokes
  into text strings. The strings are menu descriptions and key
  descriptions. Menu descriptions are used to call menu entries in
  EditorFrame, and key descriptions are used in TextDisplay.
@@ -17,16 +17,12 @@ package rene.gui;
 
 import rene.dialogs.ItemEditor;
 import rene.dialogs.MyFileDialog;
-import rene.util.sort.Sorter;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.util.Enumeration;
-import java.util.Hashtable;
-import java.util.Properties;
-import java.util.Vector;
+import java.util.*;
 
 /**
  * A static class, which contains tranlations for key events. It keeps the
@@ -54,7 +50,7 @@ public class Keyboard {
     public static void edit(Frame f) {
         final KeyboardItem keys[] = new KeyboardItem[Keyboard.V.size()];
         Keyboard.V.copyInto(keys);
-        Sorter.sort(keys);
+        Arrays.sort(keys);
         final Vector v = new Vector();
         for (int i = 0; i < keys.length; i++) {
             v.addElement(keys[i]);
@@ -174,7 +170,7 @@ public class Keyboard {
      */
     public static Vector getKeys() {
         final Vector keys = new Vector();
-        Sorter.sort(Keyboard.V);
+        Collections.sort(Keyboard.V);
         final Enumeration e = Keyboard.V.elements();
         while (e.hasMoreElements()) {
             final KeyboardItem k = (KeyboardItem) e.nextElement();

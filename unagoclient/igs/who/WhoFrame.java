@@ -8,13 +8,13 @@ import unagoclient.igs.IgsStream;
 import rene.util.list.ListClass;
 import rene.util.list.ListElement;
 import rene.util.parser.StringParser;
-import rene.util.sort.Sorter;
 import rene.viewer.Lister;
 import rene.viewer.SystemLister;
 
 import javax.swing.*;
 import java.awt.*;
 import java.io.PrintWriter;
+import java.util.Arrays;
 
 class EditButtons extends CloseDialog {
     /**
@@ -263,16 +263,16 @@ public class WhoFrame extends CloseFrame implements CloseListener {
                 v[i] = new WhoObject((String) p.content(), this.SortName);
                 p = p.next();
             }
-            Sorter.sort(v);
+            Arrays.sort(v);
             this.T.setText("");
-            this.T.appendLine0(Global
-                    .resourceString("_Info_______Name_______Idle___Rank"));
+            this.T.appendLine0(
+                    Global.resourceString("_Info_______Name_______Idle___Rank"));
             final Color FC = Color.green.darker(), CM = Color.red.darker();
             for (i = 0; i < n; i++) {
                 if (!(this.Looking.getState() && !v[i].looking()
                         || this.OmitX.getState() && v[i].silent()
-                        || this.OmitQ.getState() && v[i].quiet() || this.FriendsOnly
-                        .getState() && !v[i].friend())) {
+                        || this.OmitQ.getState() && v[i].quiet()
+                        || this.FriendsOnly.getState() && !v[i].friend())) {
                     this.T.appendLine0(v[i].who(),
                             v[i].friend() ? FC : v[i].marked() ? CM
                                     : Color.black);
@@ -290,7 +290,7 @@ public class WhoFrame extends CloseFrame implements CloseListener {
     }
 
     /**
-     * When this dialog cloeses it will unchain itself from the distributor,
+     * When this dialog closes it will unchain itself from the distributor,
      * which created it.
      */
     @Override

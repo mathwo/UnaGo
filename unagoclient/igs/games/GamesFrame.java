@@ -8,21 +8,12 @@ import unagoclient.igs.IgsStream;
 import rene.util.list.ListClass;
 import rene.util.list.ListElement;
 import rene.util.parser.StringParser;
-import rene.util.sort.Sorter;
 import rene.viewer.Lister;
 import rene.viewer.SystemLister;
 
 import java.awt.*;
 import java.io.PrintWriter;
-
-/**
- * This frame displays the games on the server. It is opened by a
- * GamesDistributor. To sort the games it uses the GamesObject class, which is a
- * SortObject implementation and can be sorted via the Sorter quicksort
- * algorithm.
- *
- * @see unagoclient.sort.Sorter
- */
+import java.util.Arrays;
 
 public class GamesFrame extends CloseFrame implements CloseListener {
     /**
@@ -107,9 +98,9 @@ public class GamesFrame extends CloseFrame implements CloseListener {
                 v[i] = new GamesObject((String) p.content());
                 p = p.next();
             }
-            Sorter.sort(v);
+            Arrays.sort(v);
             this.T.setText("");
-            this.T.appendLine0(" " + (String) this.L.first().content());
+            this.T.appendLine0(" " + this.L.first().content());
             final Color FC = Color.green.darker().darker();
             for (i = 0; i < n - 1; i++) {
                 this.T.appendLine0(v[i].game(), v[i].friend() ? FC

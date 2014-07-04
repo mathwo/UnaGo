@@ -1,15 +1,12 @@
 package unagoclient.igs.games;
 
 import rene.util.parser.StringParser;
-import rene.util.sort.SortObject;
 
 /**
- * This is a SortObject for sorting games by W player rank.
- *
- * @see unagoclient.sort.Sorter
+ * This is a Class for sorting games by W player rank.
  */
 
-public class GamesObject implements SortObject {
+public class GamesObject implements Comparable<GamesObject> {
     String S;
     int V;
     String White, Black;
@@ -48,7 +45,7 @@ public class GamesObject implements SortObject {
     }
 
     @Override
-    public int compare(SortObject o) {
+    public int compareTo(GamesObject o) {
         final GamesObject g = (GamesObject) o;
         if (this.V < g.V) {
             return 1;

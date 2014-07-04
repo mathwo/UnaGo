@@ -1,7 +1,6 @@
 package rene.gui;
 
 import rene.dialogs.ItemEditorElement;
-import rene.util.sort.SortObject;
 
 import java.util.StringTokenizer;
 
@@ -11,7 +10,7 @@ import java.util.StringTokenizer;
  * it fits.
  */
 
-public class KeyboardItem implements ItemEditorElement, SortObject {
+public class KeyboardItem implements ItemEditorElement, Comparable<KeyboardItem> {
     boolean Shift, Control, Alt;
     String CharKey;
     String MenuString, ActionName;
@@ -34,7 +33,7 @@ public class KeyboardItem implements ItemEditorElement, SortObject {
      * @param menu
      *            The menu string.
      * @param key
-     *            The key descripion a la "esc1.shift.control.e"
+     *            The key description a la "esc1.shift.control.e"
      */
     public KeyboardItem(String menu, String key) {
         this.MenuString = menu;
@@ -94,12 +93,9 @@ public class KeyboardItem implements ItemEditorElement, SortObject {
         this.CommandType = commandtype;
     }
 
-    /**
-     * Method of SortObject, necessary to sort the keys by name.
-     */
     @Override
-    public int compare(SortObject o) {
-        return this.getName().compareTo(((KeyboardItem) o).getName());
+    public int compareTo(KeyboardItem o) {
+        return this.getName().compareTo(o.getName());
     }
 
     public String getActionName() {
